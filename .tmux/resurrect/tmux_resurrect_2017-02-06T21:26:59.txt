@@ -1,0 +1,7 @@
+pane	1	1	:~/Code/tox21db	1	:*	1	:/Users/addingtonjd/Code/tox21db	1	zsh	:
+pane	1	1	:~/Code/tox21db	1	:*	2	:/Users/addingtonjd/Code/tox21db	0	python3	:/Users/addingtonjd/.virtualenvs/tox21db/bin/python3 /Users/addingtonjd/.virtualenvs/tox21db/bin/jupyter-notebook
+pane	hawc	1	:../hawc/project	1	:*	1	:/Users/addingtonjd/Code/hawc/project	1	zsh	:
+pane	hawc	1	:../hawc/project	1	:*	2	:/Users/addingtonjd/Code/hawc/project	0	zsh	:
+window	1	1	1	:*	2c00,204x62,0,0{102x62,0,0,2,101x62,103,0,3}
+window	hawc	1	1	:*	2bfd,204x62,0,0{102x62,0,0,0,101x62,103,0,1}
+state	1	

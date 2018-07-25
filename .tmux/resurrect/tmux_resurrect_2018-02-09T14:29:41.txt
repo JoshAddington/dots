@@ -1,0 +1,7 @@
+pane	sandbox	1	:..ndbox/project	1	:*Z	1	:/Users/addingtonjd/Code/review/sandbox/project	0	node	:npm  
+pane	sandbox	1	:..ndbox/project	1	:*Z	2	:/Users/addingtonjd/Code/review/sandbox/project	0	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*Z	3	:/Users/addingtonjd/Code/review/sandbox/project	1	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*Z	4	:/Users/addingtonjd/Code/review/sandbox/project	0	Python	:/Library/Frameworks/Python.framework/Versions/3.6/Resources/Python.app/Contents/MacOS/Python manage.py shell_plus
+pane	sandbox	1	:..ndbox/project	1	:*Z	5	:/Users/addingtonjd/Code/review/sandbox	0	make	:/Applications/Xcode.app/Contents/Developer/usr/bin/make servedocs
+window	sandbox	1	1	:*Z	7577,204x62,0,0[204x31,0,0,0,204x15,0,32,1,204x14,0,48{102x14,0,48,2,50x14,103,48,3,50x14,154,48,4}]
+state	sandbox	

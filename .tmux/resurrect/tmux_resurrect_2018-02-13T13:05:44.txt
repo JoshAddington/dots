@@ -1,0 +1,4 @@
+pane	0	1	:..ndbox/project	1	:*	1	:/Users/addingtonjd/Code/review/sandbox/project	0	zsh	:
+pane	0	1	:..ndbox/project	1	:*	2	:/Users/addingtonjd/Code/review/sandbox/project	1	zsh	:
+window	0	1	1	:*	030b,272x75,0,0[272x37,0,0,0,272x37,0,38,1]
+state	0	

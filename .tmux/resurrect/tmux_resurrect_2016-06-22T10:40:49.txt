@@ -1,0 +1,12 @@
+pane	deploy	1	:..de/deploy/loc	1	:*	1	:/Users/addingtonjd/Code/deploy/loc	1	ssh	:ssh addingtonjd@loc.niehs.nih.gov
+pane	deploy	1	:..de/deploy/loc	1	:*	2	:/Users/addingtonjd/Code/deploy/loc	0	zsh	:
+pane	hawc	1	:../hawc/project	1	:*	1	:/Users/addingtonjd/Code/hawc/project	0	node	:npm  
+pane	hawc	1	:../hawc/project	1	:*	2	:/Users/addingtonjd/Code/hawc	0	git	:/Library/Developer/CommandLineTools/usr/bin/git log --oneline --decorate --graph
+pane	hawc	1	:../hawc/project	1	:*	3	:/Users/addingtonjd/Code/hawc/project	1	python	:python manage.py runserver 9000
+pane	hawc	1	:../hawc/project	1	:*	4	:/Users/addingtonjd/Code/hawc/project	0	zsh	:
+pane	loc	1	:..e/loc/project	1	:*	1	:/Users/addingtonjd/Code/loc/project	0	python	:python manage.py runserver
+pane	loc	1	:..e/loc/project	1	:*	2	:/Users/addingtonjd/Code/loc/project	1	zsh	:
+window	deploy	1	1	:*	5b61,204x63,0,0[204x31,0,0,4,204x31,0,32,5]
+window	hawc	1	1	:*	2d6e,204x63,0,0[204x33,0,0{102x33,0,0,0,101x33,103,0,2},204x29,0,34{102x29,0,34,1,101x29,103,34,3}]
+window	loc	1	1	:*	3d49,80x49,0,0[80x24,0,0,6,80x24,0,25,7]
+state	loc	

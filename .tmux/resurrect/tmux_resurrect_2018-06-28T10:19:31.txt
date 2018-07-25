@@ -1,0 +1,9 @@
+pane	sandbox	1	:workon	1	:*	1	:/Users/addingtonjd/.virtualenvs	0	Python	:/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -m virtualenvwrapper.hook_loader --script /var/folders/yb/n6qjdpwj7wq_tw_1qvjf05hxsfmty5/T/virtualenvwrapper-pre_deactivate-hook-XXXXXXXXXX.SlEjcTAa pre_deactivate
+pane	sandbox	1	:workon	1	:*	2	:/Users/addingtonjd/Code/sandbox	0	zsh	:
+pane	sandbox	1	:workon	1	:*	3	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -m virtualenvwrapper.hook_loader --script /var/folders/yb/n6qjdpwj7wq_tw_1qvjf05hxsfmty5/T/virtualenvwrapper-pre_deactivate-hook-XXXXXXXXXX.3ci6Nt4M pre_deactivate
+pane	sandbox	1	:workon	1	:*	4	:/Users/addingtonjd/Code/sandbox	1	zsh	:
+pane	sandbox	1	:workon	1	:*	5	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	sandbox	1	:workon	1	:*	6	:/Users/addingtonjd/Code/sandbox	0	zsh	:
+pane	sandbox	1	:workon	1	:*	7	:/Users/addingtonjd/Code/sandbox	0	zsh	:/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -m virtualenvwrapper.hook_loader --script /var/folders/yb/n6qjdpwj7wq_tw_1qvjf05hxsfmty5/T/virtualenvwrapper-initialize-hook-XXXXXXXXXX.Lf0lBRlb initialize
+window	sandbox	1	1	:*	9630,202x62,0,0[202x31,0,0{50x31,0,0,0,50x31,51,0,5,50x31,102,0,2,49x31,153,0,6},202x30,0,32{101x30,0,32,1,100x30,102,32[100x15,102,32,3,100x14,102,48,4]}]
+state	sandbox	

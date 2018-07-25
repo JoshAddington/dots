@@ -1,0 +1,6 @@
+pane	sandbox	1	:npm	1	:*	1	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	sandbox	1	:npm	1	:*	2	:/Users/addingtonjd/Code/sandbox/project	0	python3	:python manage.py runserver 8001
+pane	sandbox	1	:npm	1	:*	3	:/Users/addingtonjd/Code/sandbox/project	1	node	:npm  
+pane	sandbox	1	:npm	1	:*	4	:/Users/addingtonjd/Code/sandbox	0	zsh	:
+window	sandbox	1	1	:*	1b46,236x73,0,0[236x38,0,0{118x38,0,0,0,117x38,119,0,2},236x34,0,39{118x34,0,39,1,117x34,119,39,3}]
+state	sandbox	

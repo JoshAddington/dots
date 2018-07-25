@@ -1,0 +1,22 @@
+pane	hawc	1	:../hawc/project	1	:*	1	:/Users/addingtonjd/Code/hawc/project	0	python3	:python manage.py shell_plus
+pane	hawc	1	:../hawc/project	1	:*	1	:/Users/addingtonjd/Code/hawc/project	0	python3	:python manage.py shell_plus
+pane	hawc	1	:../hawc/project	1	:*	2	:/Users/addingtonjd/Code/hawc/project	1	zsh	:
+pane	hawc	1	:../hawc/project	1	:*	2	:/Users/addingtonjd/Code/hawc/project	1	zsh	:
+pane	hawc	1	:../hawc/project	1	:*	3	:/Users/addingtonjd/Code/hawc/project	0	node	:npm  
+pane	hawc	1	:../hawc/project	1	:*	3	:/Users/addingtonjd/Code/hawc/project	0	node	:npm  
+pane	hawc	1	:../hawc/project	1	:*	4	:/Users/addingtonjd/Code/hawc/project	0	python3	:python manage.py runserver 9000
+pane	hawc	1	:../hawc/project	1	:*	4	:/Users/addingtonjd/Code/hawc/project	0	python3	:python manage.py runserver 9000
+pane	tblBuilder	1	:..blBuilder/src	1	:*	1	:/Users/addingtonjd/Code/tblBuilder/src	0	zsh	:
+pane	tblBuilder	1	:..blBuilder/src	1	:*	1	:/Users/addingtonjd/Code/tblBuilder/src	0	zsh	:
+pane	tblBuilder	1	:..blBuilder/src	1	:*	2	:/Users/addingtonjd/Code/tblBuilder	0	zsh	:
+pane	tblBuilder	1	:..blBuilder/src	1	:*	2	:/Users/addingtonjd/Code/tblBuilder	0	zsh	:
+pane	tblBuilder	1	:..blBuilder/src	1	:*	3	:/Users/addingtonjd/Code/tblBuilder/src	1	zsh	:
+pane	tblBuilder	1	:..blBuilder/src	1	:*	3	:/Users/addingtonjd/Code/tblBuilder/src	1	zsh	:
+pane	tblBuilder	1	:..blBuilder/src	1	:*	4	:/Users/addingtonjd/Code/tblBuilder/src	0	zsh	:
+pane	tblBuilder	1	:..blBuilder/src	1	:*	4	:/Users/addingtonjd/Code/tblBuilder/src	0	zsh	:
+window	hawc	1	1	:*	9922,202x62,0,0{101x62,0,0[101x31,0,0,8,101x30,0,32,11],100x62,102,0[100x31,102,0,9,100x30,102,32,10]}
+window	hawc	1	1	:*	9922,202x62,0,0{101x62,0,0[101x31,0,0,8,101x30,0,32,11],100x62,102,0[100x31,102,0,9,100x30,102,32,10]}
+window	tblBuilder	1	1	:*	45bc,202x62,0,0[202x31,0,0{101x31,0,0,0,100x31,102,0,3},202x30,0,32{101x30,0,32,1,100x30,102,32,2}]
+window	tblBuilder	1	1	:*	45bc,202x62,0,0[202x31,0,0{101x31,0,0,0,100x31,102,0,3},202x30,0,32{101x30,0,32,1,100x30,102,32,2}]
+state	hawc	
+state	hawc	

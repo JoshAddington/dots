@@ -1,0 +1,6 @@
+pane	tox21db	1	:psql	1	:*	1	:/Users/addingtonjd/Code/tox21db/project	0	python3	:python manage.py shell_plus
+pane	tox21db	1	:psql	1	:*	2	:/Users/addingtonjd/Code/tox21db/project	0	python3	:python manage.py runserver 8001
+pane	tox21db	1	:psql	1	:*	3	:/Users/addingtonjd/Code/tox21db/project	0	node	:npm  
+pane	tox21db	1	:psql	1	:*	4	:/Users/addingtonjd/Code/tox21db	1	psql	:psql
+window	tox21db	1	1	:*	f1f5,362x101,0,0[362x50,0,0{181x50,0,0,0,180x50,182,0,2},362x50,0,51{181x50,0,51,1,180x50,182,51,3}]
+state	tox21db	

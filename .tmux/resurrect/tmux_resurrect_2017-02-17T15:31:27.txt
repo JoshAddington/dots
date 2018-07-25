@@ -1,0 +1,4 @@
+pane	bsb	1	:gd	1	:*	1	:/Users/addingtonjd/Code/tox21db	1	git	:/Applications/Xcode.app/Contents/Developer/usr/bin/git diff notebooks/
+pane	bsb	1	:gd	1	:*	2	:/Users/addingtonjd/Code/tox21db	0	python3	:/Users/addingtonjd/.virtualenvs/tox21db/bin/python3 /Users/addingtonjd/.virtualenvs/tox21db/bin/jupyter-notebook
+window	bsb	1	1	:*	c85d,202x62,0,0{104x62,0,0,0,97x62,105,0,1}
+state	bsb	

@@ -1,0 +1,6 @@
+pane	review	1	:../hawc/project	1	:*	1	:/Users/addingtonjd/Code/review/hawc/project	1	zsh	:
+pane	review	1	:../hawc/project	1	:*	2	:/Users/addingtonjd/Code/review/hawc/project	0	zsh	:
+pane	review	1	:../hawc/project	1	:*	3	:/Users/addingtonjd/Code/review/hawc/project	0	zsh	:
+pane	review	1	:../hawc/project	1	:*	4	:/Users/addingtonjd/Code/review/hawc/project	0	zsh	:
+window	review	1	1	:*	cff7,364x101,0,0[364x52,0,0{182x52,0,0,0,181x52,183,0,3},364x48,0,53{182x48,0,53,1,181x48,183,53,4}]
+state	review	

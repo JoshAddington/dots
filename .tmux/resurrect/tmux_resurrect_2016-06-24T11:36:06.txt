@@ -1,0 +1,4 @@
+pane	0	1	:../hawc/project	1	:*	1	:/Users/addingtonjd	0	zsh	:
+pane	0	1	:../hawc/project	1	:*	2	:/Users/addingtonjd/Code/hawc/project	1	zsh	:
+window	0	1	1	:*	0206,80x24,0,0{40x24,0,0,0,39x24,41,0,2}
+state	0	

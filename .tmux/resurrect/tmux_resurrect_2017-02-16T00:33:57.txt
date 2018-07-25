@@ -1,0 +1,9 @@
+pane	bsb	1	:~/Code/tox21db	1	:*	1	:/Users/addingtonjd/Code/tox21db	1	zsh	:
+pane	bsb	1	:~/Code/tox21db	1	:*	2	:/Users/addingtonjd/Code/tox21db	0	python3	:/Users/addingtonjd/.virtualenvs/tox21db/bin/python3 /Users/addingtonjd/.virtualenvs/tox21db/bin/jupyter-notebook
+pane	hawc	1	:../hawc/project	1	:*	1	:/Users/addingtonjd/Code/hawc/project	0	python	:python manage.py shell
+pane	hawc	1	:../hawc/project	1	:*	2	:/Users/addingtonjd/Code/hawc/project	1	zsh	:
+pane	hawc	1	:../hawc/project	1	:*	3	:/Users/addingtonjd/Code/hawc/project	0	node	:npm  
+pane	hawc	1	:../hawc/project	1	:*	4	:/Users/addingtonjd/Code/hawc/project	0	python	:python manage.py runserver 9000
+window	bsb	1	1	:*	116e,204x62,0,0{105x62,0,0,0,98x62,106,0,1}
+window	hawc	1	1	:*	8bc6,204x62,0,0{102x62,0,0[102x31,0,0,29,102x30,0,32,32],101x62,103,0[101x31,103,0,30,101x30,103,32,31]}
+state	hawc	

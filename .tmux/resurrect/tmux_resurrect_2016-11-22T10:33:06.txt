@@ -1,0 +1,3 @@
+pane	loc	1	:python	1	:*	1	:/Users/addingtonjd/Code/loc/project	1	python	:python manage.py runserver
+window	loc	1	1	:*	b89d,204x62,0,0,0
+state	loc	

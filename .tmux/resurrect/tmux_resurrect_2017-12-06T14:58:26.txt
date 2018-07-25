@@ -1,0 +1,6 @@
+pane	sandbox	1	:node	1	:*Z	1	:/Users/addingtonjd/Code/sandbox/project	0	python3	:python manage.py runserver 8001
+pane	sandbox	1	:node	1	:*Z	2	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	sandbox	1	:node	1	:*Z	3	:/Users/addingtonjd/Code/sandbox/project	1	node	:node webpack.devServer.js
+pane	sandbox	1	:node	1	:*Z	4	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+window	sandbox	1	1	:*Z	b46f,270x75,0,0[270x37,0,0{135x37,0,0,0,134x37,136,0,2},270x37,0,38{135x37,0,38,1,134x37,136,38,3}]
+state	sandbox	

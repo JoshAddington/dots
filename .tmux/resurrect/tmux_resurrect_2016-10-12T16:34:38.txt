@@ -1,0 +1,6 @@
+pane	ivive	1	:python	1	:*	1	:/Users/addingtonjd/Code/ivive/project	0	python	:python manage.py shell_plus
+pane	ivive	1	:python	1	:*	2	:/Users/addingtonjd/Code/ivive/project	1	python	:python manage.py import_ivive
+pane	ivive	1	:python	1	:*	3	:/Users/addingtonjd/Code/ivive/project	0	zsh	:
+pane	ivive	1	:python	1	:*	4	:/Users/addingtonjd/Code/ivive/project	0	node	:npm  
+window	ivive	1	1	:*	d312,204x62,0,0[204x31,0,0{102x31,0,0,0,101x31,103,0,3},204x30,0,32{102x30,0,32,1,101x30,103,32,2}]
+state	ivive	

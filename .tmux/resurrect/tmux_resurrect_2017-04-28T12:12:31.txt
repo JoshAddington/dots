@@ -1,0 +1,16 @@
+pane	fiveday	1	:..veday/project	1	:*	1	:/Users/addingtonjd/Code/fiveday/project	0	zsh	:
+pane	fiveday	1	:..veday/project	1	:*	2	:/Users/addingtonjd/Code/fiveday/project	0	python3	:/Users/addingtonjd/.virtualenvs/fiveday/bin/python3 /Users/addingtonjd/.virtualenvs/fiveday/bin/pip install -r ../requirements/dev.txt
+pane	fiveday	1	:..veday/project	1	:*	3	:/Users/addingtonjd/Code/fiveday/project	1	zsh	:
+pane	fiveday	1	:..veday/project	1	:*	4	:/Users/addingtonjd/Code/fiveday/project	0	zsh	:
+pane	ivive	1	:..ivive/project	1	:*	1	:/Users/addingtonjd/Code/ivive/project	0	zsh	:
+pane	ivive	1	:..ivive/project	1	:*	2	:/Users/addingtonjd/Code/tox21db/data	0	zsh	:
+pane	ivive	1	:..ivive/project	1	:*	3	:/Users/addingtonjd/Code/ivive/project	0	zsh	:
+pane	ivive	1	:..ivive/project	1	:*	4	:/Users/addingtonjd/Code/ivive/project	1	zsh	:
+pane	tox21db	1	:..x21db/project	1	:*	1	:/Users/addingtonjd/Code/tox21db/project	0	python3	:python manage.py shell_plus
+pane	tox21db	1	:..x21db/project	1	:*	2	:/Users/addingtonjd/Code/tox21db/project	0	python3	:python manage.py runserver 8001
+pane	tox21db	1	:..x21db/project	1	:*	3	:/Users/addingtonjd/Code/tox21db/project	1	zsh	:
+pane	tox21db	1	:..x21db/project	1	:*	4	:/Users/addingtonjd/Code/tox21db	0	zsh	:
+window	fiveday	1	1	:*	3a18,362x101,0,0[362x50,0,0,27,362x50,0,51{181x50,0,51,28,90x50,182,51,29,89x50,273,51,30}]
+window	ivive	1	1	:*	d442,270x75,0,0[270x38,0,0{135x38,0,0,4,134x38,136,0,7},270x36,0,39{135x36,0,39,5,134x36,136,39,6}]
+window	tox21db	1	1	:*	e441,202x62,0,0[202x32,0,0{101x32,0,0,19,100x32,102,0,21},202x29,0,33{101x29,0,33,20,100x29,102,33,22}]
+state	fiveday	

@@ -1,0 +1,4 @@
+pane	bsb	1	:~/Code/bsb	1	:*	1	:/Users/addingtonjd/Code/bsb	1	zsh	:
+pane	bsb	1	:~/Code/bsb	1	:*	2	:/Users/addingtonjd/Code/bsb	0	zsh	:
+window	bsb	1	1	:*	036d,202x62,0,0{101x62,0,0,0,100x62,102,0,1}
+state	bsb	

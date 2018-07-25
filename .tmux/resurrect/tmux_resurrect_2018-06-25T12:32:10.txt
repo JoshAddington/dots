@@ -1,0 +1,6 @@
+pane	sandbox	1	:gf	1	:*	1	:/Users/addingtonjd/Code/sandbox	1	git	:/Library/Developer/CommandLineTools/usr/bin/git fetch
+pane	sandbox	1	:gf	1	:*	2	:/Users/addingtonjd/Code/sandbox/project	0	python3	:python manage.py runserver 8001
+pane	sandbox	1	:gf	1	:*	3	:/Users/addingtonjd/Code/sandbox/project	0	node	:npm  
+pane	sandbox	1	:gf	1	:*	4	:/Users/addingtonjd/Code/sandbox/project	0	python3	:python manage.py shell_plus
+window	sandbox	1	1	:*	9f4f,362x101,0,0[362x51,0,0{181x51,0,0,0,180x51,182,0,2},362x49,0,52{181x49,0,52,1,180x49,182,52,3}]
+state	sandbox	

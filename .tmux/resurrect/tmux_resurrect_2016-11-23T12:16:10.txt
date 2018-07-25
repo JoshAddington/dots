@@ -1,0 +1,4 @@
+pane	loc	1	:..e/loc/project	1	:*	1	:/Users/addingtonjd/Code/loc	0	git	:/Library/Developer/CommandLineTools/usr/bin/git log --oneline --decorate --graph
+pane	loc	1	:..e/loc/project	1	:*	2	:/Users/addingtonjd/Code/loc/project	1	zsh	:
+window	loc	1	1	:*	abfd,204x62,0,0{102x62,0,0,0,101x62,103,0,2}
+state	loc	

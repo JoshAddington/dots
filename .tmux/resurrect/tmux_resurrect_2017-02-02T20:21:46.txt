@@ -1,0 +1,4 @@
+pane	bsb	1	:~/Code/bsb	1	:*	1	:/Users/addingtonjd/Code/bsb	0	python3	:/Users/addingtonjd/.virtualenvs/bsb/bin/python3 /Users/addingtonjd/.virtualenvs/bsb/bin/jupyter-notebook
+pane	bsb	1	:~/Code/bsb	1	:*	2	:/Users/addingtonjd/Code/bsb	1	zsh	:
+window	bsb	1	1	:*	8a1e,130x44,0,0{69x44,0,0,0,60x44,70,0,1}
+state	bsb	

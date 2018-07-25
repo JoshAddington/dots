@@ -1,0 +1,6 @@
+pane	sandbox	1	:python	1	:*Z	1	:/Users/addingtonjd/Code/sandbox/project	0	node	:npm  
+pane	sandbox	1	:python	1	:*Z	2	:/Users/addingtonjd/Code/sandbox	0	python3	:/Users/addingtonjd/.virtualenvs/jupyter/bin/python3 /Users/addingtonjd/.virtualenvs/jupyter/bin/jupyter-notebook --port 9999
+pane	sandbox	1	:python	1	:*Z	3	:/Users/addingtonjd/Code/sandbox/project	0	python3	:python manage.py runserver 8001
+pane	sandbox	1	:python	1	:*Z	4	:/Users/addingtonjd/Code/sandbox/project	1	python3	:python manage.py neurotox_pipeline
+window	sandbox	1	1	:*Z	130b,204x62,0,0[204x31,0,0{102x31,0,0,0,101x31,103,0,2},204x30,0,32{102x30,0,32,1,101x30,103,32,3}]
+state	sandbox	

@@ -1,0 +1,6 @@
+pane	hawcReview	1	:../hawc/project	1	:*	1	:/Users/addingtonjd/Code/review/hawc/project	0	zsh	:
+pane	hawcReview	1	:../hawc/project	1	:*	2	:/Users/addingtonjd/Code/review/hawc/project	0	zsh	:
+pane	hawcReview	1	:../hawc/project	1	:*	3	:/Users/addingtonjd/Code/review/hawc/project	0	node	:npm  
+pane	hawcReview	1	:../hawc/project	1	:*	4	:/Users/addingtonjd/Code/review/hawc/project	1	zsh	:
+window	hawcReview	1	1	:*	cc09,204x62,0,0{102x62,0,0[102x31,0,0,0,102x30,0,32,3],101x62,103,0[101x31,103,0,1,101x30,103,32,2]}
+state	hawcReview	

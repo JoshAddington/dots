@@ -1,0 +1,4 @@
+pane	review	1	:..c/project/bmd	1	:*	1	:/Users/addingtonjd/Code/review/hawc/project/bmd	1	zsh	:
+pane	review	1	:..c/project/bmd	1	:*	2	:/Users/addingtonjd/Code/review/hawc/project	0	python	:python
+window	review	1	1	:*	8ad6,204x62,0,0[204x32,0,0,0,204x29,0,33,1]
+state	review	

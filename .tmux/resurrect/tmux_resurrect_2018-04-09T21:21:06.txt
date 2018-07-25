@@ -1,0 +1,6 @@
+pane	sandbox	1	:..atic/chemmaps	1	:*M	1	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	sandbox	1	:..atic/chemmaps	1	:*M	2	:/Users/addingtonjd/Code/sandbox/project	0	python3	:python manage.py runserver 8001
+pane	sandbox	1	:..atic/chemmaps	1	:*M	3	:/Users/addingtonjd/Code/sandbox/project/chemmaps/static/chemmaps	1	zsh	:
+pane	sandbox	1	:..atic/chemmaps	1	:*M	4	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+window	sandbox	1	1	:*M	9f4f,362x101,0,0[362x51,0,0{181x51,0,0,0,180x51,182,0,2},362x49,0,52{181x49,0,52,1,180x49,182,52,3}]
+state	sandbox	

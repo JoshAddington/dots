@@ -1,0 +1,6 @@
+pane	tblBuilder	1	:gd	1	:*Z	1	:/Users/addingtonjd/Code/tblBuilder/src	0	node	:/Users/addingtonjd/.meteor/packages/meteor-tool/.1.6.0_1.15t5dru++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/bin/node --expose-gc /Users/addingtonjd/.meteor/packages/meteor-tool/.1.6.0_1.15t5dru++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/tools/index.js --settings=../settings/settings.json
+pane	tblBuilder	1	:gd	1	:*Z	2	:/Users/addingtonjd/Code/tblBuilder	0	mongod	:mongod --port 3001
+pane	tblBuilder	1	:gd	1	:*Z	3	:/Users/addingtonjd/Code/tblBuilder/src	0	node	:/Users/addingtonjd/.meteor/packages/meteor-tool/.1.6.0_1.1w89zqq++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/bin/node --expose-gc /Users/addingtonjd/.meteor/packages/meteor-tool/.1.6.0_1.1w89zqq++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/tools/index.js shell
+pane	tblBuilder	1	:gd	1	:*Z	4	:/Users/addingtonjd/Code/tblBuilder	1	git	:/Applications/Xcode.app/Contents/Developer/usr/bin/git diff
+window	tblBuilder	1	1	:*Z	d312,204x62,0,0[204x31,0,0{102x31,0,0,0,101x31,103,0,3},204x30,0,32{102x30,0,32,1,101x30,103,32,2}]
+state	tblBuilder	

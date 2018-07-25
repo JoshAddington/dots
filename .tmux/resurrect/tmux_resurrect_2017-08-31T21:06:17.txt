@@ -1,0 +1,6 @@
+pane	tblBuilder	1	:mongod	1	:*	1	:/Users/addingtonjd/Code/tblBuilder/src	0	node	:/Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.0.10ejhv8++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/bin/node /Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.0.10ejhv8++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/tools/index.js --settings=../settings/settings.json
+pane	tblBuilder	1	:mongod	1	:*	2	:/Users/addingtonjd/Code/tblBuilder	0	mongod	:mongod --port 3001
+pane	tblBuilder	1	:mongod	1	:*	3	:/Users/addingtonjd/Code/tblBuilder/src	1	node	:/Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.0.10ejhv8++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/bin/node /Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.0.10ejhv8++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/tools/index.js shell
+pane	tblBuilder	1	:mongod	1	:*	4	:/Users/addingtonjd/Code/tblBuilder/src	0	zsh	:
+window	tblBuilder	1	1	:*	6cc5,192x53,0,0[192x26,0,0{96x26,0,0,0,95x26,97,0,3},192x26,0,27{96x26,0,27,1,95x26,97,27,2}]
+state	tblBuilder	

@@ -1,0 +1,6 @@
+pane	sandbox	1	:..ndbox/project	1	:*Z	1	:/Users/addingtonjd/Code/sandbox/project	0	python3	:/Users/addingtonjd/.virtualenvs/sandbox/bin/python3 /Users/addingtonjd/.virtualenvs/sandbox/bin/ptw
+pane	sandbox	1	:..ndbox/project	1	:*Z	2	:/Users/addingtonjd/Code/sandbox/project	0	python3	:python manage.py runserver 8001
+pane	sandbox	1	:..ndbox/project	1	:*Z	3	:/Users/addingtonjd/Code/sandbox/project	0	node	:node /Users/addingtonjd/.yarn/bin/yarn.js start
+pane	sandbox	1	:..ndbox/project	1	:*Z	4	:/Users/addingtonjd/Code/sandbox/project	1	zsh	:
+window	sandbox	1	1	:*Z	2a3c,272x75,0,0[272x38,0,0{137x38,0,0,0,134x38,138,0,2},272x36,0,39{137x36,0,39,1,134x36,138,39,3}]
+state	sandbox	

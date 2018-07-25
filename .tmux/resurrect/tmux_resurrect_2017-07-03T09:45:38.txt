@@ -1,0 +1,9 @@
+pane	hawc	1	:workon	1	:*	1	:/Users/addingtonjd/Code/hawc/project	0	zsh	:
+pane	hawc	1	:workon	1	:*	2	:/Users/addingtonjd/.virtualenvs	1	Python	:/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -m virtualenvwrapper.hook_loader --script /var/folders/yb/n6qjdpwj7wq_tw_1qvjf05hxsfmty5/T/virtualenvwrapper-initialize-hook-XXXXXXXXXX.9nf6gLIn initialize
+pane	hawc	1	:workon	1	:*	3	:/Users/addingtonjd/.virtualenvs	0	Python	:/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -m virtualenvwrapper.hook_loader --script /var/folders/yb/n6qjdpwj7wq_tw_1qvjf05hxsfmty5/T/virtualenvwrapper-pre_deactivate-hook-XXXXXXXXXX.iWz3Qzck pre_deactivate
+pane	hawc	1	:workon	1	:*	4	:/Users/addingtonjd/.virtualenvs	0	Python	:/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -m virtualenvwrapper.hook_loader --script /var/folders/yb/n6qjdpwj7wq_tw_1qvjf05hxsfmty5/T/virtualenvwrapper-pre_deactivate-hook-XXXXXXXXXX.b2Il7dVI pre_deactivate
+pane	hawc	1	:workon	1	:*	5	:/Users/addingtonjd/Code/hawc/project	0	zsh	:
+pane	hawc	1	:workon	1	:*	6	:/Users/addingtonjd/.virtualenvs	0	Python	:/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -m virtualenvwrapper.hook_loader --script /var/folders/yb/n6qjdpwj7wq_tw_1qvjf05hxsfmty5/T/virtualenvwrapper-initialize-hook-XXXXXXXXXX.EZ9vkknL initialize
+pane	hawc	1	:workon	1	:*	7	:/Users/addingtonjd/.virtualenvs	0	Python	:(Python)
+window	hawc	1	1	:*	3adb,202x62,0,0{103x62,0,0[103x16,0,0,0,103x16,0,17,6,103x28,0,34,3],98x62,104,0[98x33,104,0,1,98x28,104,34{48x28,104,34,2,49x28,153,34[49x14,153,34,4,49x13,153,49,5]}]}
+state	hawc	

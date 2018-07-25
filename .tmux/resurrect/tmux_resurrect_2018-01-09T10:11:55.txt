@@ -1,0 +1,6 @@
+pane	sandbox	1	:ptw	1	:*M	1	:/Users/addingtonjd/Code/sandbox/project	1	python3	:/Users/addingtonjd/.virtualenvs/sandbox/bin/python3 /Users/addingtonjd/.virtualenvs/sandbox/bin/ptw job_runner
+pane	sandbox	1	:ptw	1	:*M	2	:/Users/addingtonjd/Code/sandbox/project	0	python3	:python manage.py runserver 8001
+pane	sandbox	1	:ptw	1	:*M	3	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	sandbox	1	:ptw	1	:*M	4	:/Users/addingtonjd/Code/sandbox/project	0	node	:npm  
+window	sandbox	1	1	:*M	752b,272x75,0,0[272x41,0,0{138x41,0,0,0,133x41,139,0,2},272x33,0,42{138x33,0,42,1,133x33,139,42,3}]
+state	sandbox	

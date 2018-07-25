@@ -1,0 +1,6 @@
+pane	herohawc	1	:npm	1	:*	1	:/Users/addingtonjd/Code/herohawc/project	0	python3	:python manage.py shell_plus
+pane	herohawc	1	:npm	1	:*	2	:/Users/addingtonjd/Code/herohawc	0	zsh	:
+pane	herohawc	1	:npm	1	:*	3	:/Users/addingtonjd/Code/herohawc/project	0	node	:npm  
+pane	herohawc	1	:npm	1	:*	4	:/Users/addingtonjd/Code/herohawc/project	1	python3	:python manage.py runserver 9000
+window	herohawc	1	1	:*	cc09,204x62,0,0{102x62,0,0[102x31,0,0,0,102x30,0,32,3],101x62,103,0[101x31,103,0,1,101x30,103,32,2]}
+state	herohawc	

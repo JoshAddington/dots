@@ -1,0 +1,5 @@
+pane	hawc	1	:python	1	:*	1	:/Users/addingtonjd/Code/hawc/project	0	python	:python manage.py shell
+pane	hawc	1	:python	1	:*	2	:/Users/addingtonjd/Code/hawc/project	0	node	:npm  
+pane	hawc	1	:python	1	:*	3	:/Users/addingtonjd/Code/hawc/project	1	python	:python manage.py runserver 9000
+window	hawc	1	1	:*	7598,272x75,0,0{136x75,0,0,0,135x75,137,0[135x39,137,0,1,135x35,137,40,2]}
+state	hawc	

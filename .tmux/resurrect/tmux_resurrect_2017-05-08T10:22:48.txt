@@ -1,0 +1,5 @@
+pane	fiveday	1	:npm	1	:*Z	1	:/Users/addingtonjd/Code/fiveday/project	0	zsh	:
+pane	fiveday	1	:npm	1	:*Z	2	:/Users/addingtonjd/Code/fiveday/project	0	zsh	:
+pane	fiveday	1	:npm	1	:*Z	3	:/Users/addingtonjd/Code/fiveday/project	1	node	:npm  
+window	fiveday	1	1	:*Z	599b,202x62,0,0[202x31,0,0,4,202x30,0,32{101x30,0,32,5,100x30,102,32,6}]
+state	fiveday	

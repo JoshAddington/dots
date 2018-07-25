@@ -1,0 +1,7 @@
+pane	0	1	:..de/deploy/loc	1	:*	1	:/Users/addingtonjd/Code/deploy/loc	0	zsh	:
+pane	0	1	:..de/deploy/loc	1	:*	2	:/Users/addingtonjd/Code/deploy/loc	1	ssh	:ssh addingtonjd@loc.niehs.nih.gov
+pane	1	1	:addingtonjd@loc.niehs.nih.gov	1	:*	1	:/Users/addingtonjd/Code/deploy/loc	1	ssh	:ssh addingtonjd@loc.niehs.nih.gov
+pane	1	1	:addingtonjd@loc.niehs.nih.gov	1	:*	2	:/Users/addingtonjd/Code/deploy/loc	0	ssh	:ssh addingtonjd@loc.niehs.nih.gov
+window	0	1	1	:*	42d7,272x75,0,0{136x75,0,0,0,135x75,137,0,1}
+window	1	1	1	:*	81e3,364x101,0,0{182x101,0,0,2,181x101,183,0,3}
+state	1	

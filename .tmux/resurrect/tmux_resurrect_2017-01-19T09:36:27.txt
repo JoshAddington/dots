@@ -1,0 +1,4 @@
+pane	0	1	:git	1	:*	1	:/Users/addingtonjd/Code/hawc	1	git	:/Applications/Xcode.app/Contents/Developer/usr/bin/git push heroku test-heroku:master
+pane	0	1	:git	1	:*	2	:/Users/addingtonjd/Code/hawc	0	heroku	:heroku run bash
+window	0	1	1	:*	2bfd,204x62,0,0{102x62,0,0,0,101x62,103,0,1}
+state	0	

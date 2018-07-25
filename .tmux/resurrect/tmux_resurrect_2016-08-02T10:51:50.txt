@@ -1,0 +1,6 @@
+pane	loc	1	:..de/deploy/loc	1	:*Z	1	:/Users/addingtonjd/Code/loc/project	0	zsh	:
+pane	loc	1	:..de/deploy/loc	1	:*Z	2	:/Users/addingtonjd	0	ssh	:ssh addingtonjd@loc.niehs.nih.gov
+pane	loc	1	:..de/deploy/loc	1	:*Z	3	:/Users/addingtonjd/Code/loc/project	0	zsh	:
+pane	loc	1	:..de/deploy/loc	1	:*Z	4	:/Users/addingtonjd/Code/deploy/loc	1	zsh	:
+window	loc	1	1	:*Z	ebe7,109x36,0,0[109x29,0,0{70x29,0,0,0,38x29,71,0,4},109x6,0,30{70x6,0,30,1,38x6,71,30,3}]
+state	loc	

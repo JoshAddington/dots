@@ -1,0 +1,4 @@
+pane	bsb	1	:~/Code/tox21db	1	:*	1	:/Users/addingtonjd/Code/tox21db	1	zsh	:
+pane	bsb	1	:~/Code/tox21db	1	:*	2	:/Users/addingtonjd/Code/tox21db	0	python3	:/Users/addingtonjd/.virtualenvs/tox21db/bin/python3 /Users/addingtonjd/.virtualenvs/tox21db/bin/jupyter-notebook
+window	bsb	1	1	:*	95ae,204x53,0,0{105x53,0,0,0,98x53,106,0,1}
+state	bsb	

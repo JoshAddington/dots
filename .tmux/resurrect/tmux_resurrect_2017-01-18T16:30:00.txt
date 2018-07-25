@@ -1,0 +1,8 @@
+pane	0	1	:~/Code/hawc	1	:*Z	1	:/Users/addingtonjd/Code/hawc	0	curl	:curl --upload-file ./hawc.dump https://transfer.sh/
+pane	0	1	:~/Code/hawc	1	:*Z	2	:/Users/addingtonjd/Code/hawc	0	heroku	:heroku run bash
+pane	0	1	:~/Code/hawc	1	:*Z	3	:/Users/addingtonjd/Code/hawc	1	zsh	:
+pane	bsb	1	:..de/bsb/011117	1	:*	1	:/Users/addingtonjd/Code/bsb/011117	1	zsh	:
+pane	bsb	1	:..de/bsb/011117	1	:*	2	:/Users/addingtonjd/Downloads	0	zsh	:
+window	0	1	1	:*Z	d2c9,204x62,0,0{102x62,0,0,0,50x62,103,0,1,50x62,154,0,4}
+window	bsb	1	1	:*	2c00,204x62,0,0{102x62,0,0,2,101x62,103,0,3}
+state	0	

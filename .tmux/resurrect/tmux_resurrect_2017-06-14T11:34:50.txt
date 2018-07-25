@@ -1,0 +1,10 @@
+pane	loc	1	:..e/loc/project	1	:*	1	:/Users/addingtonjd/Code/loc/project	1	zsh	:
+pane	loc	1	:..e/loc/project	1	:*	2	:/Users/addingtonjd/Code/loc/project	0	zsh	:
+pane	loc	1	:..e/loc/project	1	:*	3	:/Users/addingtonjd/Code/loc/project	0	zsh	:
+pane	tox21db	1	:gd	1	:*Z	1	:/Users/addingtonjd/Code/tox21db/project	0	python3	:python manage.py shell_plus
+pane	tox21db	1	:gd	1	:*Z	2	:/Users/addingtonjd/Code/tox21db/project	0	python3	:python manage.py runserver 8001
+pane	tox21db	1	:gd	1	:*Z	3	:/Users/addingtonjd/Code/tox21db/project	0	node	:npm  
+pane	tox21db	1	:gd	1	:*Z	4	:/Users/addingtonjd/Code/tox21db	1	git	:/Applications/Xcode.app/Contents/Developer/usr/bin/git diff tox21/assets/summary/Tox21SummaryFigure.js
+window	loc	1	1	:*	d9cc,202x62,0,0[202x31,0,0,7,202x30,0,32{101x30,0,32,8,100x30,102,32,9}]
+window	tox21db	1	1	:*Z	85b4,202x62,0,0[202x31,0,0{101x31,0,0,0,100x31,102,0,2},202x30,0,32{101x30,0,32,1,100x30,102,32,3}]
+state	tox21db	

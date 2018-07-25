@@ -1,0 +1,6 @@
+pane	sandbox	1	:..main/settings	1	:*Z	1	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	sandbox	1	:..main/settings	1	:*Z	2	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	sandbox	1	:..main/settings	1	:*Z	3	:/Users/addingtonjd/Code/sandbox/project	0	node	:node /Users/addingtonjd/.yarn/bin/yarn.js start
+pane	sandbox	1	:..main/settings	1	:*Z	4	:/Users/addingtonjd/Code/sandbox/project/main/settings	1	zsh	:
+window	sandbox	1	1	:*Z	9c17,204x62,0,0[204x31,0,0{103x31,0,0,0,100x31,104,0,2},204x30,0,32{103x30,0,32,1,100x30,104,32,3}]
+state	sandbox	

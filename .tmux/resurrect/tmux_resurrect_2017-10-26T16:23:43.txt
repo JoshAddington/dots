@@ -1,0 +1,11 @@
+pane	sandbox	1	:..ndbox/project	1	:*	1	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*	2	:/Users/addingtonjd/Code/sandbox/project	1	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*	3	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*	4	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	tblBuilder	1	:..blBuilder/src	1	:*	1	:/Users/addingtonjd/Code/tblBuilder/src	0	node	:/Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.2_2.1kssthf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/bin/node /Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.2_2.1kssthf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/tools/index.js --settings=../settings/settings.json
+pane	tblBuilder	1	:..blBuilder/src	1	:*	2	:/Users/addingtonjd/Code/tblBuilder	0	mongod	:mongod --port 3001
+pane	tblBuilder	1	:..blBuilder/src	1	:*	3	:/Users/addingtonjd/Code/tblBuilder/src	0	node	:/Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.2_2.6x6van++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/bin/node /Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.2_2.6x6van++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/tools/index.js shell
+pane	tblBuilder	1	:..blBuilder/src	1	:*	4	:/Users/addingtonjd/Code/tblBuilder/src	1	zsh	:
+window	sandbox	1	1	:*	762e,238x73,0,0[238x37,0,0{119x37,0,0,0,118x37,120,0,2},238x35,0,38{119x35,0,38,1,118x35,120,38,3}]
+window	tblBuilder	1	1	:*	aca1,238x73,0,0[238x36,0,0{119x36,0,0,8,118x36,120,0,11},238x36,0,37{119x36,0,37,9,118x36,120,37,10}]
+state	tblBuilder	

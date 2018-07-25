@@ -1,0 +1,9 @@
+pane	1	1	:yarn	1	:*	1	:/Users/addingtonjd/Code/contacts	1	node	:node /Users/addingtonjd/.yarn/bin/yarn.js start
+pane	1	1	:yarn	1	:*	2	:/Users/addingtonjd/Code/contacts	0	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*	1	:/Users/addingtonjd/Code/sandbox	0	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*	2	:/Users/addingtonjd/Code/sandbox/project	1	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*	3	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*	4	:/Users/addingtonjd/Code/sandbox	0	make	:/Library/Developer/CommandLineTools/usr/bin/make servedocs
+window	1	1	1	:*	0373,202x62,0,0{101x62,0,0,4,100x62,102,0,5}
+window	sandbox	1	1	:*	bbcc,236x73,0,0[236x37,0,0{118x37,0,0,0,117x37,119,0,2},236x35,0,38{118x35,0,38,1,117x35,119,38,3}]
+state	1	

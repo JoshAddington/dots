@@ -1,0 +1,4 @@
+pane	0	1	:~/dotfiles	1	:*	1	:/Users/addingtonjd/dotfiles	0	zsh	:
+pane	0	1	:~/dotfiles	1	:*	2	:/Users/addingtonjd/dotfiles	1	zsh	:
+window	0	1	1	:*	c2d7,272x75,0,0{136x75,0,0,0,135x75,137,0,2}
+state	0	

@@ -1,0 +1,6 @@
+pane	sandbox	1	:npm	1	:*	1	:/Users/addingtonjd/Code/sandbox/project	0	python3	:python manage.py shell_plus
+pane	sandbox	1	:npm	1	:*	2	:/Users/addingtonjd/Code/sandbox/project	0	python3	:python manage.py runserver 8001
+pane	sandbox	1	:npm	1	:*	3	:/Users/addingtonjd/Code/sandbox/project	1	node	:npm  
+pane	sandbox	1	:npm	1	:*	4	:/Users/addingtonjd/Code/sandbox	0	git	:/Applications/Xcode.app/Contents/Developer/usr/bin/git diff
+window	sandbox	1	1	:*	8464,204x62,0,0[204x32,0,0{102x32,0,0,0,101x32,103,0,2},204x29,0,33{102x29,0,33,1,101x29,103,33,3}]
+state	sandbox	

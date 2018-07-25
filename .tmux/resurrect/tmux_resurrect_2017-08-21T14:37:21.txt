@@ -1,0 +1,5 @@
+pane	tblBuilder	1	:..de/tblBuilder	1	:*	1	:/Users/addingtonjd/Code/tblBuilder	0	zsh	:
+pane	tblBuilder	1	:..de/tblBuilder	1	:*	2	:/Users/addingtonjd/Code/tblBuilder	0	zsh	:
+pane	tblBuilder	1	:..de/tblBuilder	1	:*	3	:/Users/addingtonjd/Code/tblBuilder	1	zsh	:
+window	tblBuilder	1	1	:*	6d6f,204x62,0,0[204x31,0,0,0,204x30,0,32{102x30,0,32,1,101x30,103,32,2}]
+state	tblBuilder	

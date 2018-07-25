@@ -1,0 +1,6 @@
+pane	hawc	1	:../hawc/project	1	:*	1	:/Users/addingtonjd/Code/hawc	0	git	:/Applications/Xcode.app/Contents/Developer/usr/bin/git diff package.json
+pane	hawc	1	:../hawc/project	1	:*	2	:/Users/addingtonjd/Code/hawc/project	0	python	:bash /Users/addingtonjd/.tmux/plugins/tmux-resurrect/scripts/save.sh quiet
+python manage.py runserver 9000
+pane	hawc	1	:../hawc/project	1	:*	3	:/Users/addingtonjd/Code/hawc/project	1	zsh	:
+window	hawc	1	1	:*	0e4e,204x62,0,0{102x62,0,0,0,101x62,103,0[101x31,103,0,1,101x30,103,32,2]}
+state	hawc	

@@ -1,0 +1,6 @@
+pane	sandbox	1	:..ndbox/project	1	:*	1	:/Users/addingtonjd/Code/sandbox/project	0	python3	:python manage.py runserver 8001
+pane	sandbox	1	:..ndbox/project	1	:*	2	:/Users/addingtonjd/Code/sandbox/project	1	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*	3	:/Users/addingtonjd/Code/sandbox/project	0	node	:node webpack.devServer.js
+pane	sandbox	1	:..ndbox/project	1	:*	4	:/Users/addingtonjd/Code/sandbox/project	0	psql	:psql
+window	sandbox	1	1	:*	1d35,192x53,0,0[192x25,0,0{96x25,0,0,0,95x25,97,0,2},192x27,0,26{96x27,0,26,1,95x27,97,26,3}]
+state	sandbox	

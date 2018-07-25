@@ -1,0 +1,7 @@
+pane	0	1	:~/Code/hawc	1	:*	1	:/Users/addingtonjd/Code/hawc	0	zsh	:
+pane	0	1	:~/Code/hawc	1	:*	2	:/Users/addingtonjd/Code/hawc	1	heroku	:heroku run bash
+pane	bsb	1	:..de/bsb/011117	1	:*	1	:/Users/addingtonjd/Code/bsb/011117	1	zsh	:
+pane	bsb	1	:..de/bsb/011117	1	:*	2	:/Users/addingtonjd/Downloads	0	zsh	:
+window	0	1	1	:*	2bfd,204x62,0,0{102x62,0,0,0,101x62,103,0,1}
+window	bsb	1	1	:*	2c00,204x62,0,0{102x62,0,0,2,101x62,103,0,3}
+state	0	

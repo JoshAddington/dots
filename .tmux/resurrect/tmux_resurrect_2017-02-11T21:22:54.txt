@@ -1,0 +1,4 @@
+pane	bsb	1	:~/Code/tox21db	1	:*	1	:/Users/addingtonjd/Code/tox21db	0	zsh	:
+pane	bsb	1	:~/Code/tox21db	1	:*	2	:/Users/addingtonjd/Code/tox21db	1	zsh	:
+window	bsb	1	1	:*	96dd,192x53,0,0{99x53,0,0,0,92x53,100,0,1}
+state	bsb	

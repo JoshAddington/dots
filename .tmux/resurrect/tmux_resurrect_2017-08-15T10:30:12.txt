@@ -1,0 +1,6 @@
+pane	sandbox	1	:~/Code/tox21db	1	:*	1	:/Users/addingtonjd/Code/tox21db/project	0	python3	:python manage.py shell_plus
+pane	sandbox	1	:~/Code/tox21db	1	:*	2	:/Users/addingtonjd/Code/tox21db/project	0	python3	:python manage.py runserver 8001
+pane	sandbox	1	:~/Code/tox21db	1	:*	3	:/Users/addingtonjd/Code/tox21db/project	0	node	:npm  
+pane	sandbox	1	:~/Code/tox21db	1	:*	4	:/Users/addingtonjd/Code/tox21db	1	zsh	:
+window	sandbox	1	1	:*	7330,202x62,0,0[202x29,0,0{101x29,0,0,0,100x29,102,0,2},202x32,0,30{101x32,0,30,1,100x32,102,30,3}]
+state	sandbox	

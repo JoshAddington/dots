@@ -1,0 +1,6 @@
+pane	hawc	1	:gd	1	:*	1	:/Users/addingtonjd/Code/hawc/project	0	node	:npm  
+pane	hawc	1	:gd	1	:*	2	:/Users/addingtonjd/Code/hawc/project	0	zsh	:
+pane	hawc	1	:gd	1	:*	3	:/Users/addingtonjd/Code/hawc/project	0	python	:python manage.py runserver 9000
+pane	hawc	1	:gd	1	:*	4	:/Users/addingtonjd/Code/hawc	1	git	:/Library/Developer/CommandLineTools/usr/bin/git diff static/
+window	hawc	1	1	:*	2d6e,204x63,0,0[204x33,0,0{102x33,0,0,0,101x33,103,0,2},204x29,0,34{102x29,0,34,1,101x29,103,34,3}]
+state	hawc	

@@ -1,0 +1,32 @@
+pane	hawc	1	:../hawc/project	1	:*	1	:/Users/addingtonjd/Code/hawc/project	1	zsh	:
+pane	hawc	1	:../hawc/project	1	:*	1	:/Users/addingtonjd/Code/hawc/project	1	zsh	:
+pane	hawc	1	:../hawc/project	1	:*	2	:/Users/addingtonjd/Code/hawc/project	0	zsh	:
+pane	hawc	1	:../hawc/project	1	:*	2	:/Users/addingtonjd/Code/hawc/project	0	zsh	:
+pane	hawc	1	:../hawc/project	1	:*	3	:/Users/addingtonjd/Code/hawc/project	0	zsh	:
+pane	hawc	1	:../hawc/project	1	:*	3	:/Users/addingtonjd/Code/hawc/project	0	zsh	:
+pane	hawc	1	:../hawc/project	1	:*	4	:/Users/addingtonjd/Code/hawc/project	0	zsh	:
+pane	hawc	1	:../hawc/project	1	:*	4	:/Users/addingtonjd/Code/hawc/project	0	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*	1	:/Users/addingtonjd/Code/sandbox/project	1	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*	1	:/Users/addingtonjd/Code/sandbox/project	1	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*	2	:/Users/addingtonjd/Code/sandbox/project	0	python3	:python manage.py runserver 8001
+pane	sandbox	1	:..ndbox/project	1	:*	2	:/Users/addingtonjd/Code/sandbox/project	0	python3	:python manage.py runserver 8001
+pane	sandbox	1	:..ndbox/project	1	:*	3	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*	3	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*	4	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	sandbox	1	:..ndbox/project	1	:*	4	:/Users/addingtonjd/Code/sandbox/project	0	zsh	:
+pane	tblBuilder	1	:..blBuilder/src	1	:*	1	:/Users/addingtonjd/Code/tblBuilder/src	0	node	:/Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.2_1.nmcun7++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/bin/node /Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.2_1.nmcun7++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/tools/index.js --settings=../settings/settings.json
+pane	tblBuilder	1	:..blBuilder/src	1	:*	1	:/Users/addingtonjd/Code/tblBuilder/src	0	node	:/Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.2_1.nmcun7++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/bin/node /Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.2_1.nmcun7++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/tools/index.js --settings=../settings/settings.json
+pane	tblBuilder	1	:..blBuilder/src	1	:*	2	:/Users/addingtonjd/Code/tblBuilder	0	mongod	:mongod --port 3001
+pane	tblBuilder	1	:..blBuilder/src	1	:*	2	:/Users/addingtonjd/Code/tblBuilder	0	mongod	:mongod --port 3001
+pane	tblBuilder	1	:..blBuilder/src	1	:*	3	:/Users/addingtonjd/Code/tblBuilder/src	0	node	:/Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.2.126hlsm++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/bin/node --expose-gc /Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.2.126hlsm++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/tools/index.js shell
+pane	tblBuilder	1	:..blBuilder/src	1	:*	3	:/Users/addingtonjd/Code/tblBuilder/src	0	node	:/Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.2.126hlsm++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/bin/node --expose-gc /Users/addingtonjd/.meteor/packages/meteor-tool/.1.5.2.126hlsm++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/tools/index.js shell
+pane	tblBuilder	1	:..blBuilder/src	1	:*	4	:/Users/addingtonjd/Code/tblBuilder/src	1	zsh	:
+pane	tblBuilder	1	:..blBuilder/src	1	:*	4	:/Users/addingtonjd/Code/tblBuilder/src	1	zsh	:
+window	hawc	1	1	:*	9f84,204x62,0,0{102x62,0,0[102x32,0,0,4,102x29,0,33,7],101x62,103,0[101x32,103,0,5,101x29,103,33,6]}
+window	sandbox	1	1	:*	8464,204x62,0,0[204x32,0,0{102x32,0,0,0,101x32,103,0,2},204x29,0,33{102x29,0,33,1,101x29,103,33,3}]
+window	tblBuilder	1	1	:*	363c,204x62,0,0[204x31,0,0{102x31,0,0,8,101x31,103,0,11},204x30,0,32{102x30,0,32,9,101x30,103,32,10}]
+window	hawc	1	1	:*	9f84,204x62,0,0{102x62,0,0[102x32,0,0,4,102x29,0,33,7],101x62,103,0[101x32,103,0,5,101x29,103,33,6]}
+window	sandbox	1	1	:*	8464,204x62,0,0[204x32,0,0{102x32,0,0,0,101x32,103,0,2},204x29,0,33{102x29,0,33,1,101x29,103,33,3}]
+window	tblBuilder	1	1	:*	363c,204x62,0,0[204x31,0,0{102x31,0,0,8,101x31,103,0,11},204x30,0,32{102x30,0,32,9,101x30,103,32,10}]
+state	tblBuilder	
+state	tblBuilder	

@@ -1,0 +1,7 @@
+pane	1	1	:..e/loc/project	1	:*	1	:/Users/addingtonjd/Code/loc/project	1	zsh	:
+pane	1	1	:..e/loc/project	1	:*	2	:/Users/addingtonjd/Code/deploy/loc	0	zsh	:
+pane	bsb	1	:~/Code/bsb	1	:*	1	:/Users/addingtonjd/Code/bsb	0	zsh	:
+pane	bsb	1	:~/Code/bsb	1	:*	2	:/Users/addingtonjd/Code/bsb	1	zsh	:
+window	1	1	1	:*	2c00,204x62,0,0{102x62,0,0,2,101x62,103,0,3}
+window	bsb	1	1	:*	2bfd,204x62,0,0{102x62,0,0,0,101x62,103,0,1}
+state	1	

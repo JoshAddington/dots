@@ -1,0 +1,4 @@
+pane	sandbox	1	:..ndbox/project	1	:*	1	:/Users/addingtonjd/Code/sandbox	0	git	:/Applications/Xcode.app/Contents/Developer/usr/bin/git log --oneline --decorate --graph
+pane	sandbox	1	:..ndbox/project	1	:*	2	:/Users/addingtonjd/Code/sandbox/project	1	zsh	:
+window	sandbox	1	1	:*	abfd,204x62,0,0{102x62,0,0,0,101x62,103,0,2}
+state	sandbox	

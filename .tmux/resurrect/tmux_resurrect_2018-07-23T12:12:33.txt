@@ -1,0 +1,6 @@
+pane	sandbox	1	:~/Code/sandbox	1	:*	1	:/Users/addingtonjd/Code/sandbox/project	0	python3	:/Users/addingtonjd/.virtualenvs/sandbox/bin/python3 /Users/addingtonjd/.virtualenvs/sandbox/bin/ptw
+pane	sandbox	1	:~/Code/sandbox	1	:*	2	:/Users/addingtonjd/Code/sandbox/project	0	python3	:python manage.py runserver 8001
+pane	sandbox	1	:~/Code/sandbox	1	:*	3	:/Users/addingtonjd/Code/sandbox/project	0	node	:npm  
+pane	sandbox	1	:~/Code/sandbox	1	:*	4	:/Users/addingtonjd/Code/sandbox	1	zsh	:
+window	sandbox	1	1	:*	7f2c,364x101,0,0[364x50,0,0{182x50,0,0,0,181x50,183,0,2},364x50,0,51{182x50,0,51,1,181x50,183,51,3}]
+state	sandbox	

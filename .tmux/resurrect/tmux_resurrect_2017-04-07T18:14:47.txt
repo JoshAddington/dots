@@ -1,0 +1,6 @@
+pane	tox21db	1	:python	1	:*	1	:/Users/addingtonjd/Code/tox21db/project	0	zsh	:
+pane	tox21db	1	:python	1	:*	2	:/Users/addingtonjd/Code/tox21db/project	0	zsh	:
+pane	tox21db	1	:python	1	:*	3	:/Users/addingtonjd/Code/tox21db/project	0	node	:npm  
+pane	tox21db	1	:python	1	:*	4	:/Users/addingtonjd/Code/tox21db/project	1	python3	:python manage.py runserver 8001
+window	tox21db	1	1	:*	130b,204x62,0,0[204x31,0,0{102x31,0,0,0,101x31,103,0,2},204x30,0,32{102x30,0,32,1,101x30,103,32,3}]
+state	tox21db	

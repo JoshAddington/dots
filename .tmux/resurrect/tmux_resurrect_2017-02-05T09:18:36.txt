@@ -1,0 +1,9 @@
+pane	1	1	:..de/deploy/loc	1	:*	1	:/Users/addingtonjd/Code/loc	0	zsh	:
+pane	1	1	:..de/deploy/loc	1	:*	2	:/Users/addingtonjd/Code/deploy/loc	1	zsh	:
+pane	tox21db	1	:~/Code/tox21db	1	:*	1	:/Users/addingtonjd/Code/tox21db	0	zsh	:
+pane	tox21db	1	:~/Code/tox21db	1	:*	2	:/Users/addingtonjd/Code/tox21db	0	make	:/Applications/Xcode.app/Contents/Developer/usr/bin/make servedocs
+pane	tox21db	1	:~/Code/tox21db	1	:*	3	:/Users/addingtonjd/Code/tox21db	1	zsh	:
+pane	tox21db	1	:~/Code/tox21db	1	:*	4	:/Users/addingtonjd/Code/tox21db	0	zsh	:
+window	1	1	1	:*	0373,202x62,0,0{101x62,0,0,4,100x62,102,0,5}
+window	tox21db	1	1	:*	8f61,204x62,0,0{102x62,0,0,0,101x62,103,0[101x14,103,0,1,101x15,103,15,3,101x31,103,31,2]}
+state	tox21db	

@@ -1,0 +1,7 @@
+pane	sandbox	1	:..eview/sandbox	1	:*Z	1	:/Users/addingtonjd/Code/review/sandbox/project	0	node	:npm  
+pane	sandbox	1	:..eview/sandbox	1	:*Z	2	:/Users/addingtonjd/Code/review/sandbox/project	0	python3	:python manage.py runserver 8001
+pane	sandbox	1	:..eview/sandbox	1	:*Z	3	:/Users/addingtonjd/Code/review/sandbox/project	0	python3	:/Users/addingtonjd/.virtualenvs/sandbox/bin/python3 /Users/addingtonjd/.virtualenvs/sandbox/bin/celery worker --app=main --loglevel=INFO
+pane	sandbox	1	:..eview/sandbox	1	:*Z	4	:/Users/addingtonjd/Code/review/sandbox/project	0	python3	:python manage.py shell_plus
+pane	sandbox	1	:..eview/sandbox	1	:*Z	5	:/Users/addingtonjd/Code/review/sandbox	1	zsh	:
+window	sandbox	1	1	:*Z	7577,204x62,0,0[204x31,0,0,0,204x15,0,32,1,204x14,0,48{102x14,0,48,2,50x14,103,48,3,50x14,154,48,4}]
+state	sandbox	

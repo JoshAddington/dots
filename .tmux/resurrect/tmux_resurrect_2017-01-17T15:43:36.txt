@@ -1,0 +1,11 @@
+pane	1	1	:~/ntp-tools-dev	1	:*	1	:/Users/addingtonjd/Code/servers/sandbox	0	zsh	:
+pane	1	1	:~/ntp-tools-dev	1	:*	2	:/Users/addingtonjd/ntp-tools-dev	1	zsh	:
+pane	2	1	:node	1	:*	1	:/Users/addingtonjd/Code/hawc/project	1	node	:node devServer.js
+pane	2	1	:node	1	:*	2	:/Users/addingtonjd/Code/hawc/project	0	python	:python manage.py runserver 9000
+pane	2	1	:node	1	:*	3	:/Users/addingtonjd/Code/hawc/project	0	zsh	:
+pane	hawc	1	:../hawc/project	1	:*	1	:/Users/addingtonjd/.Trash/project	0	zsh	:
+pane	hawc	1	:../hawc/project	1	:*	2	:/Users/addingtonjd/.Trash/project	1	zsh	:
+window	1	1	1	:*	2c00,204x62,0,0{102x62,0,0,2,101x62,103,0,3}
+window	2	1	1	:*	0e60,204x62,0,0{102x62,0,0,4,101x62,103,0[101x31,103,0,5,101x30,103,32,6]}
+window	hawc	1	1	:*	2bfd,204x62,0,0{102x62,0,0,0,101x62,103,0,1}
+state	2	

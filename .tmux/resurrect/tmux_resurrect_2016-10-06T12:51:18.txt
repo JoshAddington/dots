@@ -1,0 +1,6 @@
+pane	ivive	1	:..ivive/project	1	:*	1	:/Users/addingtonjd/Code/ivive/project	0	python	:python manage.py shell_plus
+pane	ivive	1	:..ivive/project	1	:*	2	:/Users/addingtonjd/Code/ivive/project	0	python	:python manage.py runserver 5555
+pane	ivive	1	:..ivive/project	1	:*	3	:/Users/addingtonjd/Code/ivive/project	0	node	:npm  
+pane	ivive	1	:..ivive/project	1	:*	4	:/Users/addingtonjd/Code/ivive/project	1	zsh	:
+window	ivive	1	1	:*	8b1c,204x62,0,0[204x29,0,0,0,204x32,0,30{78x32,0,30,1,74x32,79,30,2,50x32,154,30,3}]
+state	ivive	

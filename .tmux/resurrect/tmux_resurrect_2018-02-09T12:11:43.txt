@@ -1,0 +1,7 @@
+pane	venv	1	:vim	1	:*Z	1	:/Users/addingtonjd/Code/review/sandbox	0	make	:/Applications/Xcode.app/Contents/Developer/usr/bin/make servedocs
+pane	venv	1	:vim	1	:*Z	2	:/Users/addingtonjd/Code/review/sandbox	1	Vim	:/Applications/MacVim.app/Contents/MacOS/Vim bin/dev.sh
+pane	venv	1	:vim	1	:*Z	3	:/Users/addingtonjd/Code/review/sandbox	0	zsh	:
+pane	venv	1	:vim	1	:*Z	4	:/Users/addingtonjd/Code/review/sandbox	0	zsh	:
+pane	venv	1	:vim	1	:*Z	5	:/Users/addingtonjd/Code/review/sandbox	0	zsh	:
+window	venv	1	1	:*Z	7577,204x62,0,0[204x31,0,0,0,204x15,0,32,1,204x14,0,48{102x14,0,48,2,50x14,103,48,3,50x14,154,48,4}]
+state	venv	
