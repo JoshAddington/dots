@@ -1,0 +1,159 @@
+{
+	"name": "vscode-jest-test-adapter",
+	"displayName": "Jest Test Explorer",
+	"description": "Run your Jest tests in the Sidebar of Visual Studio Code",
+	"icon": "icon.png",
+	"author": "Tyler Benfield <rtbenfield@gmail.com>",
+	"publisher": "kavod-io",
+	"contributors": [
+		"Craig Fleming (https://github.com/rythos42)",
+		"Ross Knudsen (https://github.com/rossknudsen)"
+	],
+	"version": "0.8.1",
+	"preview": true,
+	"license": "MIT",
+	"homepage": "https://github.com/kavod-io/vscode-jest-test-adapter",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kavod-io/vscode-jest-test-adapter.git"
+	},
+	"bugs": {
+		"url": "https://github.com/kavod-io/vscode-jest-test-adapter/issues"
+	},
+	"categories": [
+		"Other"
+	],
+	"keywords": [
+		"test",
+		"testing",
+		"jest"
+	],
+	"main": "dist/extension.js",
+	"scripts": {
+		"build": "npm run webpack-prod",
+		"clean": "rimraf out dist build junit.xml coverage *.vsix",
+		"rebuild": "npm run clean && npm run build",
+		"package": "mkdir build && vsce package -o build/vscode-jest-test-adapter.vsix",
+		"publish": "vsce publish",
+		"test": "jest",
+		"test-ci": "jest --ci --reporters=jest-junit --reporters=default --coverage --coverageReporters=cobertura --coverageReporters=html",
+		"test-watch": "jest --watch",
+		"type-check": "tsc --noEmit",
+		"vscode:prepublish": "npm run webpack-prod",
+		"webpack-prod": "webpack --mode production",
+		"webpack-dev": "webpack --mode development",
+		"webpack-watch": "webpack --mode development --watch"
+	},
+	"dependencies": {
+		"@babel/traverse": "^7.14.0",
+		"@schemastore/package": "0.0.5",
+		"cosmiconfig": "^6.0.0",
+		"jest-editor-support": "^28.1.0",
+		"lodash": "^4.17.21",
+		"micromatch": "^4.0.2",
+		"semver": "^7.3.2",
+		"strip-ansi": "^6.0.0",
+		"tslib": "^1.11.1",
+		"vscode-test-adapter-api": "^1.9.0",
+		"vscode-test-adapter-util": "^0.7.0"
+	},
+	"devDependencies": {
+		"@types/jest": "^26.0.23",
+		"@types/lodash": "^4.14.168",
+		"@types/micromatch": "^4.0.1",
+		"@types/node": "^15.0.2",
+		"@types/semver": "^7.1.0",
+		"@types/vscode": "^1.30.0",
+		"@types/webpack": "^5.28.0",
+		"@typescript-eslint/eslint-plugin": "^4.22.1",
+		"@typescript-eslint/parser": "^4.22.1",
+		"eslint": "^7.26.0",
+		"eslint-config-prettier": "^8.3.0",
+		"jest": "^26.6.3",
+		"jest-extended": "^0.11.5",
+		"jest-junit": "^12.0.0",
+		"jest-watch-typeahead": "^0.6.3",
+		"memfs": "^3.2.2",
+		"prettier": "^2.2.1",
+		"ts-jest": "^26.5.6",
+		"ts-loader": "^9.1.2",
+		"ts-node": "^9.1.1",
+		"typescript": "^4.2.4",
+		"vsce": "^1.88.0",
+		"webpack": "^5.36.2",
+		"webpack-cli": "^4.7.0"
+	},
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"extensionDependencies": [
+		"hbenl.vscode-test-explorer"
+	],
+	"activationEvents": [
+		"*"
+	],
+	"contributes": {
+		"configuration": {
+			"type": "object",
+			"title": "Jest Test Explorer configuration",
+			"properties": {
+				"jestTestExplorer.logpanel": {
+					"description": "Write diagnotic logs to an output panel.",
+					"scope": "resource",
+					"title": "Log Panel",
+					"type": "boolean"
+				},
+				"jestTestExplorer.logfile": {
+					"description": "Write diagnostic logs to the given file.",
+					"scope": "resource",
+					"title": "Log File",
+					"type": "string"
+				},
+				"jestTestExplorer.pathToJest": {
+					"description": "Override the path to the Jest executable. The default behavior is to attempt to detect common configurations.",
+					"scope": "resource",
+					"type": "string"
+				},
+				"jestTestExplorer.debugOutput": {
+					"description": "Specifies where to display the output from the Debug process.",
+					"default": "internalConsole",
+					"scope": "resource",
+					"type": "string",
+					"enum": [
+						"internalConsole",
+						"integratedTerminal",
+						"externalTerminal"
+					]
+				},
+				"jestTestExplorer.hideEmptyProjects": {
+					"description": "Hide projects that do not have any tests from the test hierarchy.",
+					"scope": "resource",
+					"title": "Hide Empty Projects",
+					"type": "boolean",
+					"default": true
+				},
+				"jestTestExplorer.flattenExplorer": {
+					"description": "When true, tests in the Test Explorer will be grouped only by `describe` labels instead of file/folder structure.",
+					"scope": "resource",
+					"title": "Flatten Tests in Explorer",
+					"type": "boolean",
+					"default": false
+				},
+				"jestTestExplorer.featureToggles": {
+					"description": "A list of feature toggles to enable experimental features.",
+					"scope": "window",
+					"title": "Feature Toggles",
+					"type": "array",
+					"default": []
+				}
+			}
+		}
+	},
+	"__metadata": {
+		"id": "64dae992-51a7-47e2-a399-4c57c3cebae9",
+		"publisherId": "db60ef99-e4b7-49df-be23-53f640a80401",
+		"publisherDisplayName": "kavod.io",
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1646686671992
+	}
+}

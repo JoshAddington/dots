@@ -1,0 +1,127 @@
+{
+	"name": "linter-codeclimate",
+	"displayName": "linter-codeclimate",
+	"description": "Linter Plugin for CodeClimate CLI",
+	"version": "0.1.0",
+	"publisher": "monovaldes",
+	"engines": {
+		"vscode": "^1.31.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/monovaldes/vscode-linter-codeclimate.git"
+	},
+	"icon": "images/lccLogo.png",
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onLanguage:ruby",
+		"onLanguage:javascript",
+		"onLanguage:css",
+		"onLanguage:java",
+		"onLanguage:php",
+		"onLanguage:typescript"
+	],
+	"main": "./out/extension",
+	"contributes": {
+		"languages": [
+			{
+				"id": "ruby",
+				"aliases": [
+					"Ruby",
+					"ruby"
+				],
+				"extensions": [
+					".rb",
+					".erb"
+				]
+			},
+			{
+				"id": "javascript",
+				"aliases": [
+					"Javascript",
+					"javascript"
+				],
+				"extensions": [
+					".js",
+					".jsx"
+				]
+			},
+			{
+				"id": "css",
+				"aliases": [
+					"Sass",
+					"sass",
+					"Css",
+					"css"
+				],
+				"extensions": [
+					".css",
+					".scss"
+				]
+			},
+			{
+				"id": "java",
+				"aliases": [
+					"Java",
+					"java"
+				],
+				"extensions": [
+					".java"
+				]
+			},
+			{
+				"id": "php",
+				"aliases": [
+					"PHP",
+					"php"
+				],
+				"extensions": [
+					".php"
+				]
+			},
+			{
+				"id": "typescript",
+				"aliases": [
+					"TypeScript",
+					"typescript"
+				],
+				"extensions": [
+					".ts",
+					".tsx"
+				]
+			}
+		],
+		"configuration": {
+			"type": "object",
+			"title": "Codeclimate Linter Config",
+			"properties": {
+				"linter_codeclimate.enabled": {
+					"type": "boolean",
+					"default": false
+				}
+			}
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "npm run compile && node ./node_modules/vscode/bin/test"
+	},
+	"devDependencies": {
+		"@types/mocha": "^2.2.42",
+		"@types/node": "^7.0.43",
+		"typescript": "^3.4.5",
+		"vscode": "^1.1.34"
+	},
+	"__metadata": {
+		"id": "b2bbcfc3-8055-48ee-ad08-8835e9300f90",
+		"publisherId": "4c3c949d-1143-4d14-89a7-b3aab1c1f3f8",
+		"publisherDisplayName": "monovaldes",
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1646686670162
+	}
+}
